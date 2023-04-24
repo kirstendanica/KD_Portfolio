@@ -14,7 +14,7 @@
   
   @font-face {
     font-family: 'SilkFlower';
-    src: url(/SilkFlower.otf) format(opentype);
+    src: url(SilkFlower.otf) format(opentype);
   }
   
   html {
