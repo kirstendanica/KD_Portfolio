@@ -16,6 +16,11 @@
     font-family: 'SilkFlower';
     src: url(SilkFlower.otf) format(opentype);
   }
+
+  @font-face {
+      font-family: 'Curvilingus';
+      src: url(Curvilingus.otf) format(opentype);
+    
   
   html {
     scroll-behavior: smooth;
