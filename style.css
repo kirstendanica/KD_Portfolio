@@ -1,21 +1,20 @@
-
 * {
     box-sizing: border-box;
   }
   
   @font-face {
       font-family: 'Silka';
-      src: url(/fonts/Silka-Regular.otf) format(opentype);
+      src: url(Silka-Regular.otf) format(opentype);
   }
 
   @font-face {
     font-family: 'Monolith';
-    src: url(/fonts/Monolith-LightItalic.otf) format(opentype);
+    src: url(Monolith-LightItalic.otf) format(opentype);
   }
   
   @font-face {
     font-family: 'SilkFlower';
-    src: url(/fonts/SilkFlower.otf) format(opentype);
+    src: url(/SilkFlower.otf) format(opentype);
   }
   
   html {
