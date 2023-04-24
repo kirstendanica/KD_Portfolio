@@ -1,3 +1,4 @@
+
 * {
     box-sizing: border-box;
   }
@@ -18,9 +19,9 @@
   }
 
   @font-face {
-      font-family: 'Curvilingus';
-      src: url(Curvilingus.otf) format(opentype);
-    
+    font-family: 'Curvilingus';
+    src: url(Curvilingus.otf) format(opentype);
+  }
   
   html {
     scroll-behavior: smooth;
